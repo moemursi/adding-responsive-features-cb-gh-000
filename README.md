@@ -1,4 +1,4 @@
-# Responsive Features Code-Along
+# Responsdfive Features Code-Along
 
 ## Overview
 
